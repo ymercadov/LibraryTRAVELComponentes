@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Contratos\Aplicacion.Contratos.csproj" />
+    <ProjectReference Include="..\Aplicacion.Core\Aplicacion.Core.csproj" />
+    <ProjectReference Include="..\Dominio.Contratos\Dominio.Contratos.csproj" />
+    <ProjectReference Include="..\Dominio.Core\Dominio.Core.csproj" />
+    <ProjectReference Include="..\Utilitarios.IoC\Utilitarios.IoC.csproj" />
+  </ItemGroup>
+
+</Project>
