@@ -1,8 +1,4 @@
 # LibraryTRAVELComponentes
-
-# LibraryTRAVELApi
-Descargue o clone el siguiente repositorio:
-LibraryTRAVELApi
   
 ## FRONTEND
 Descargue o clone el siguiente repositorio:
